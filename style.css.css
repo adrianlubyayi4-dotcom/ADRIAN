@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    color: white;
+    fort-family: Arial, sans-serif;
+    padding: 30px
+}
+
+h1 {
+    color: yelow;
+}
+
+buttom {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    fort-size: 16px;
+    border-radius: 8px;
+}
+
+.product {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 4px 10px gray;
+    transition: 0.3s;
+    width: 300px;
+    margin: 20px auto;
+    background: white;
+    color: black;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px gray;
+}
+
+.product img {
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+}
